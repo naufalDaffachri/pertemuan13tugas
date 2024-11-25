@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">pertemuan6tugas</string>
-    <string-array name="daftar_tujuan">
-        <item>Jakarta</item>
-        <item>Bandung</item>
-        <item>Yogyakarta</item>
-        <item>Surabaya</item>
-    </string-array>
-</resources>
